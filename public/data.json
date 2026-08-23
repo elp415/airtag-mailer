@@ -173,6 +173,12 @@
       "lat": 41.872280581826395,
       "lng": -87.6387677489743,
       "label": "USPS Central Chicago"
+    },
+    {
+      "time": "2026-08-23T16:20:00.000Z",
+      "lat": 41.95386602549739,
+      "lng": -87.904752306519,
+      "label": "USPS OHare International Distribution"
     }
   ]
 }
