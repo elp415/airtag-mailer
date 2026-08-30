@@ -179,6 +179,36 @@
       "lat": 41.95386602549739,
       "lng": -87.904752306519,
       "label": "USPS OHare International Distribution"
+    },
+    {
+      "time": "2026-08-28T16:53:00.000Z",
+      "lat": 41.95386602549739,
+      "lng": -87.904752306519,
+      "label": "USPS OHare International Distribution"
+    },
+    {
+      "time": "2026-08-29T03:53:00.000Z",
+      "lat": 41.96361634037422,
+      "lng": -87.91057385522576,
+      "label": "OHare Delta Cargo"
+    },
+    {
+      "time": "2026-08-29T05:53:00.000Z",
+      "lat": 42.23182838006733,
+      "lng": -83.3394395682636,
+      "label": "Detroit Airport"
+    },
+    {
+      "time": "2026-08-29T21:06:00.000Z",
+      "lat": 42.20657174494237,
+      "lng": -83.36012343123176,
+      "label": "Detroit Airport DL16"
+    },
+    {
+      "time": "2026-08-30T09:00:00.000Z",
+      "lat": 51.45929678189074,
+      "lng": -0.4719641568770262,
+      "label": "London Heathrow DL16"
     }
   ]
 }
